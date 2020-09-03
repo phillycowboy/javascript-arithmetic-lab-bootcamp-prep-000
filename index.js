@@ -31,5 +31,5 @@ return (parseInt(n,10))
 }
 
 function preserveDecimal(n){
-  retrun(parseFloat(n, 8.333333))
+  retrun(parseFloat(2.222))
 }
